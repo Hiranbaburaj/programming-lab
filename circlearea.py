@@ -1,5 +1,5 @@
 rad=int(input("Enter the radius of the circle: "))
-area=(2*3.14*rad)
-perimeter=(3.14*rad*rad)
+perimeter=(2*3.14*rad)
+area=(3.14*rad*rad)
 print("The perimeter of the circle is: ",perimeter)
 print("The area of the circle is: ",area)
