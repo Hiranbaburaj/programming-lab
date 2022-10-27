@@ -25,3 +25,11 @@ if sum(b)==sum(y):
 
 else:
     print("The sum of lists are different")    
+
+same=[c for c in b if c in y]
+
+if len(same)==0:
+    print("Commmon element does not exist")
+
+else:
+        print("Commmon element exist")
