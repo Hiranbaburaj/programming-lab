@@ -1,3 +1,8 @@
+"""7) Enter 2 list of integers, check
+a) whether list are of same length
+b) whether list sums to same value
+c) whether any value occur in both""" 
+
 a=input("Enter the elements of list 1: ")
 a=a.split(" ")
 print(a)
