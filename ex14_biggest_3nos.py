@@ -1,4 +1,4 @@
-#enter 3 numbers and find the greatest among them
+#14) Find biggest of 3 numbers entered 
 
 n1=int(input("Enter the first number: "))
 n2=int(input("Enter the second number: "))
