@@ -1,4 +1,4 @@
-#accept a filename and print extension
+#15) Accept a file name from user and print extension of that
 
 a=input("Enter the filename:")
 b=a.split(".")
