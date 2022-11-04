@@ -1,8 +1,8 @@
 #exchange 1st and last characters of a string
 
 l1=[]
-b=len(a)
 a=input("Enter a word: ")
+b=len(a)
 for i in range(b):
     l1.append(a[i])
 l2=l1.copy()
