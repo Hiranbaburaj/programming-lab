@@ -4,7 +4,7 @@ def freq(a):
     d={}
     for i in range(0,len(a)):
         if s[i]!= ' ':
-            l1.append(s[i])
+            l1.append(a[i])
     for w in l1:
         if w in d:
             d[w]+=1
