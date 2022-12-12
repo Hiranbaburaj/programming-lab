@@ -1,10 +1,8 @@
 #Count the number of characters (character frequency) in a string. 
 def freq(a):
-    s=a.lower()
-    ln=len(s)
     l1=[]
     d={}
-    for i in range(0,ln):
+    for i in range(0,len(a)):
         if s[i]!= ' ':
             l1.append(s[i])
     for w in l1:
