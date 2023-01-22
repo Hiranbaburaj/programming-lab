@@ -1,0 +1,5 @@
+this is an example file
+for python cycle 5
+this file has txt format
+and will be read by python program	
+in read mode
