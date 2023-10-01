@@ -33,4 +33,45 @@ to same value (c) whether any value occur in both
 22. Sort dictionary in ascending and descending order.
 23. Merge two dictionaries.
 
+Course Outcome 2 (CO2)
+1. Program to find the factorial of a number
+2. Generate Fibonacci series of N terms
+3. Find the sum of all items in a list
+4. Generate a list of four digit numbers in a given range with all their digits even and the
+ number is a perfect square.
+5. Display the given pyramid with step number accepted from user.
+Eg: N=4
+1
+2 4
+3 6 9
+4 8 12 16
+6. Count the number of characters (character frequency) in a string.
+7. Add ‘ing’ at the end of a given string. If it already ends with ‘ing’, then add ‘ly’
+8. Accept a list of words and return length of longest word.
+9. Construct following pattern using nested loop
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+10. Generate all factors of a number. 
 
+Course Outcome 3(CO3):
+1. Work with built-in packages
+2. Create a package graphics with modules rectangle, circle and sub-package 3D-graphics with
+modules cuboid and sphere. Include methods to find area and perimeter of respective figures
+in each module. Write programs that finds area and perimeter of figures by different importing
+statements. (Include selective import of modules and import * statements)
+
+Course Outcome 5 (CO5):
+ 1. Write a Python program to read a file line by line and store it into a list.
+2. Python program to copy odd lines of one file to other
+3. Write a Python program to read each row from a given csv file and print a list of strings.
+4. Write a Python program to read specific columns of a given CSV file and print the content
+of the columns.
+5. Write a Python program to write a Python dictionary to a csv file. After writing the CSV file
+read the CSV file and display the content. 
