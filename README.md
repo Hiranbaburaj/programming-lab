@@ -13,8 +13,7 @@ to same value (c) whether any value occur in both
 (b) Square of N numbers
 (c) Form a list of vowels selected from a given word
 (d) List ordinal value of each element of a word (Hint: use ord() to get ordinal values)
-9. Create a string from given string where first and last characters exchanged. [eg: python -
-> nythop]
+9. Create a string from given string where first and last characters exchanged. [eg: python -> nythop]
 10. Prompt the user for a list of integers. For all values greater than 100, store ‘over’ instead.
 11. Store a list of first names. Count the occurrences of ‘a’ within the list
 12. Get a string from an input string where all occurrences of first character replaced with
