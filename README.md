@@ -49,15 +49,15 @@ Eg: N=4
 7. Add ‘ing’ at the end of a given string. If it already ends with ‘ing’, then add ‘ly’
 8. Accept a list of words and return length of longest word.
 9. Construct following pattern using nested loop
-        *
-        * *
-        * * *
-        * * * *
-        * * * * *
-        * * * *
-        * * *
-        * *
-        *
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
 10. Generate all factors of a number. 
 
 Course Outcome 3(CO3):
